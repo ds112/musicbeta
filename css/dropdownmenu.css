@@ -41,7 +41,7 @@
 
 /* Change the background color of the dropdown button when the dropdown content is shown */
 .dropdown:hover .dropbtn {
-    background-color: #343A40;
+    background-color: rgb(97, 100, 104);
     color:rgb(112, 112, 112);
 }
 .dropac:hover {
